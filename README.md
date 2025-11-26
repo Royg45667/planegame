@@ -1,1 +1,1 @@
-to play the game, first download the file "main", find it in wherever your downloads folder is, then right click and click "Extract all". after that, open the extracted file and run the file "game".
+to play the game, first download the file "main.zip", find it in wherever your downloads folder is, then right click and click "Extract all". after that, open the extracted file and run the file "game".
